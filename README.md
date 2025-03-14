@@ -21,7 +21,7 @@
 
 ## 🌐 Connect with Me
 <div align="center">
-    <a href="https://www.linkedin.com/in/juan-pablo-verduzco-88b417356">
+    <a href="https://www.linkedin.com/in/pablo-verduzco-88b417356/?trk=opento_sprofile_goalscard">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="discord://discordapp.com/users/Pentrox#9013" style="text-decoration: none;">
