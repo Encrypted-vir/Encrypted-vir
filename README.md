@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=333333&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+interfaces+that+feel+inevitable.;Frontend+first.+Full+stack+when+needed." alt="Building interfaces that feel inevitable. · Frontend first. Full stack when needed." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=ffffff&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+interfaces+that+feel+inevitable.;Frontend+first.+Full+stack+when+needed." alt="Building interfaces that feel inevitable. · Frontend first. Full stack when needed." />
 
 </div>
 
