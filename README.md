@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+interfaces+that+feel+inevitable.;Frontend+first.+Full+stack+when+needed." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=333333&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+interfaces+that+feel+inevitable.;Frontend+first.+Full+stack+when+needed." alt="Building interfaces that feel inevitable. · Frontend first. Full stack when needed." />
 
 </div>
 
@@ -103,10 +103,10 @@ Frontend developer with full stack experience — I lead with the interface, but
 
 ## CERTIFICATIONS
 
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-000000?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/NDG_Linux_Essentials-000000?style=flat-square&logo=linux&logoColor=FCC624)
-![Linux](https://img.shields.io/badge/NDG_Linux_Unhatched-000000?style=flat-square&logo=linux&logoColor=FCC624)
-![AI](https://img.shields.io/badge/Iniciación_al_Desarrollo_con_IA_·_BIG_school-000000?style=flat-square&logo=artifacthub&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-FF9900?style=flat-square&logo=amazon-aws&logoColor=000000)
+![Linux](https://img.shields.io/badge/NDG_Linux_Essentials-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Linux](https://img.shields.io/badge/NDG_Linux_Unhatched-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![AI](https://img.shields.io/badge/Iniciación_al_Desarrollo_con_IA_·_BIG_school-1a1aff?style=flat-square&logo=artifacthub&logoColor=white)
 
 ---
 
@@ -114,7 +114,7 @@ Frontend developer with full stack experience — I lead with the interface, but
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%" />
 
-<strong>Open to new opportunities</strong>
+<strong>Colima, México &ensp;·&ensp; Open to new opportunities</strong>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Encrypted-vir&label=PROFILE+VIEWS&color=000000&style=flat-square" />
 
